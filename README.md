@@ -70,7 +70,7 @@ Open your browser: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 | Name               | GitHub                                   |
 | ------------------ | ---------------------------------------- |
 | Chinmay Shet       | [@chishxd](https://github.com/chishxd)   |
-| Your Friend’s Name | [@username](https://github.com/username) |
+| Vedant Parte | [@username](https://github.com/VedantParte23) |
 
 ---
 
