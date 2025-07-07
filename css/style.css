@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #5BC0BE;
+    display: flex;
+    padding: 12px 55px;
+    align-items: center;
+    gap: 28px;
+    align-self: stretch;
+}
+.navbar-brand{
+    color: #FFF;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
